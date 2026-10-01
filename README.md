@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Helmer 👋</h1>
 
 <p align="center">
-  Fullstack web developer from Sweden, trained at Mid Sweden University (Mittuniversitetet).<br>
-  I build web apps and APIs with TypeScript, Vue, React, NestJS and C#/.NET.
+  Fullstack web developer from Sweden, trained at Mid Sweden University (Mittuniversitetet).
 </p>
 
 ---
 
 ### 🙋‍♂️ About me
 
-- 💻 I like building full applications, from database and REST API to a finished frontend
-- 🤖 My thesis was about using generative AI to give students automatic feedback in higher education
+- 💻 I build full applications, from database and REST API to a finished frontend
+- 🤖 My thesis was about using generative AI to give university students automatic feedback 
 - 📈 I'm interested in finance and the stock market, and a few of my projects come from that
 - ⚽ Outside of code: football, family and a good workout at the gym
 - 📫 Reach me at **hbergstrom02@gmail.com**
